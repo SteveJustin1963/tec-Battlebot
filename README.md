@@ -1,2 +1,2 @@
 # tec-Battlebot
-tec1 Battlebot to annihilate the SC-Battlebot
+tec1 Battlebot team, we will try and beat the SC-Battlebot
